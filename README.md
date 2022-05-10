@@ -1,3 +1,4 @@
+calf stands for chat and l band fabric port interface
 Thus comes with a instant messaging server and a instant messaging client
 The networking module in this code is the module that offers both low-level networking
 functionality, such as TCP and UDP sockets, as well as high-level networking classes for
